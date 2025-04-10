@@ -1,6 +1,6 @@
 # 🧑‍💼 HR Dashboard – Power BI Project
 
-This project showcases a comprehensive HR Dashboard built using Power BI, focusing on employee attrition analysis and workforce demographics. The visualizations help HR departments monitor and analyze key HR metrics for better decision-making.
+This project showcases a comprehensive **HR Dashboard** built using **Power BI**, focusing on employee attrition analysis and workforce demographics. The visualizations help HR departments monitor and analyze key HR metrics for better decision-making.
 
 ---
 
